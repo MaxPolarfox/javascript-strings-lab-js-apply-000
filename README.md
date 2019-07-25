@@ -2,7 +2,7 @@
 
 ![lab](https://i.giphy.com/NETCsDYm0fL44.gif)
 
-## Overview 
+## Overview
 
 In this lab, we're going to work with strings. Strings in JavaScript are wrapped in single or double quotes, or in back ticks.
 
@@ -96,7 +96,7 @@ var conversation = `${topic}`;
 
 Each line has a test associated with it. When the tests fail, they show us what the _expected_ value is — your job is to make that expectation a reality by modifying the code provided.
 
-When you first run `learn`, you should see something like this:
+When you first run l, you should see something like this:
 
 ![All tests failing.](https://user-images.githubusercontent.com/17556281/27979675-b6575498-6345-11e7-8c9d-052c2d4d3e96.png)
 
